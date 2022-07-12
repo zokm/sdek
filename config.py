@@ -1,0 +1,3 @@
+TOKEN = '5035878965:AAFpZ8EixrITl0eBv2hJuAaLhuoYD-vt2vk'
+USER_SDEK = 'jr7cGzFIgXgfIhzfnGHgiPVG0mtKnX4k'
+PASSWORD_SDEK = 'tcsFvtpldnPZbwdpJh5NEiuNOWQLMTvs'
